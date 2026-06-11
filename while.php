@@ -135,7 +135,7 @@
         <h1>งานที่ 1 ภาสกวี ยิ้มศรวล BIT.2/4 เลขที่ 9</h1>
     </div>
 
-    <a href="while.php" class="nav-link">While loop</a>
+    <a href="index.php" class="nav-link">for loop</a>
 
     <div class="form-container">
         <form action="" method="GET">
